@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Shruthika's Portfolio
 
-You can use the [editor on GitHub](https://github.com/ShruthikaPrabahar/Shruthika/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You are here to witness the achievements and progressions I have been through these 17th years of my life!
+[Click on to view a more about myself!](https://github.com/ShruthikaPrabahar/Shruthika/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
